@@ -1,0 +1,164 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_hot/overworld"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_jungle"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_badlands"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_savanna"
+      }
+    ],
+    [
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "minecraft:is_overworld"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_plains"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "forge:is_wet/overworld"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "forge:is_cold/overworld"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_jungle"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_badlands"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_savanna"
+      },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:desert"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:sunflower_plains"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:forest"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:flower_forest"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:birch_forest"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:dark_forest"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:old_growth_birch_forest"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:savanna_plateau"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:windswept_hills"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:windswept_gravelly_hills"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:windswept_forest"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:windswept_savanna"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:beach"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:stone_shore"
+	  },
+	],
+	[
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:is_nether"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:nether_wastes"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:crimson_forest"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:warped_forest"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:soul_sand_valley"
+	  },
+	  {
+	    "type": "BIOME_TAG",
+	    "negate": false,
+	    "value": "minecraft:basalt_deltas"
+	],
+  ],
+}

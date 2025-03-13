@@ -1,0 +1,148 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_cold/overworld"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:shattered_glacier"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:frosted_taiga"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "byg:frosted_coniferous_forest"
+      }
+    ]
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:is_ice_spikes"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:is_snowy_plains"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:is_snowy_taiga"
+      }
+    ],
+
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:is_snowy_beach"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:is_jagged_peaks"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:is_frozen_peaks"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:is_grove"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:is_snowy_slopes"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:is_frozen_river"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:is_snowy_plains"
+      }
+    ],
+    {
+      "type": "BIOME_TAG",
+      "negate": false,
+      "value": "minecraft:ocean"
+    },
+    {
+      "type": "BIOME_TAG",
+      "negate": false,
+      "value": "minecraft:frozen_ocean"
+    },
+    {
+      "type": "BIOME_TAG",
+      "negate": false,
+      "value": "minecraft:deep_frozen_ocean"
+    },
+    {
+      "type": "BIOME_TAG",
+      "negate": false,
+      "value": "minecraft:cold_ocean"
+    },
+    {
+      "type": "BIOME_TAG",
+      "negate": false,
+      "value": "minecraft:deep_cold_ocean"
+    },
+    {
+      "type": "BIOME_TAG",
+      "negate": false,
+      "value": "minecraft:lukewarm_ocean"
+    },
+    {
+      "type": "BIOME_TAG",
+      "negate": false,
+      "value": "minecraft:deep_lukewarm_ocean"
+    },
+    {
+      "type": "BIOME_TAG",
+      "negate": false,
+      "value": "minecraft:warm_ocean"
+    },
+    {
+      "type": "BIOME_TAG",
+      "negate": false,
+      "value": "minecraft:deep_ocean"
+    },
+  ]
+}
